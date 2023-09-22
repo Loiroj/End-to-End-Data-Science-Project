@@ -64,7 +64,7 @@ command to run if program contains helper info
 Contributors names and contact info
 
 
-[João Loiro](https://twitter.com/dompizzie)
+[João Loiro](https://twitter.com)
 
 ## Version History
 
